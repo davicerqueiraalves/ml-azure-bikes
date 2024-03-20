@@ -1,4 +1,4 @@
-# ml-azure-bikes
+# Teste de ML no Azure (ml-azure-bikes):
 Testando o setup do ML Azure indicado pelas instruções de laboratório da Microsoft.
 
 Utilizando a plataforma de Machine Learning do Azure, utilizei o campo de ML automatizado para realizar o modelo de predição de vendas de bicicletas seguindo os passos descritos no artigo de instruções da Microsoft.
